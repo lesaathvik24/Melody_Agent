@@ -1,5 +1,4 @@
 <p align="center">
-    <img alt="logo" src="img/logo.png" width=300 />
     <h1 align="center">Melody Agent</h1>
     <h3 align="center">Made with crewAI and Suno AI</h3>
 </p>
