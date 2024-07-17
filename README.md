@@ -56,4 +56,6 @@ A Streamlit application will be launched on your localhost, on port `8501`.
 
 If you click the URL, you should see something like this:
 
-![alt text](img/landing_page.png)
+https://github.com/user-attachments/assets/5a2e18a2-85d2-4c49-a99d-dc16274747e2
+
+
