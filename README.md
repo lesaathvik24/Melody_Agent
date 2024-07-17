@@ -6,12 +6,12 @@
 
 ## Introduction
 
-Ever thought of how a Heavy Metal song about the last tweet of Elon Musk would sound? Well, this is your repo then ...
+This is a Music Generation Agent
 
 
 ## Description
 
-This repository contains a crewAI application for automatically generating songs given a **topic** and a **musc genre**. The song generation is done using [the "unofficial" Suno AI API](https://github.com/gcui-art/suno-api).
+This repository contains a crewAI application for automatically generating songs given a **topic** and a **music genre**. The song generation is done using [the "unofficial" Suno AI API](https://github.com/gcui-art/suno-api).
 
 The crew consists of [three agents](agents.py):
 
