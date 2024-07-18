@@ -26,7 +26,7 @@ it adapts the lyrics to the provided `music genre`.
 
 3️⃣ Song Generator Agent
 
-The Son Generator Agent takes the generated lyrics and uses the [Suno custom tool](custom_tools/suno_ai_tool.py) to
+The Song Generator Agent takes the generated lyrics and uses the [Suno custom tool](custom_tools/suno_ai_tool.py) to
 interact with the Suno API and download two candidate songs.
 
 ## Getting Started
