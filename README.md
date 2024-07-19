@@ -50,7 +50,7 @@ To start the application, simply run:
 docker compose build & docker compose up
 ```
 
-A Streamlit application will be launched on your localhost, on port `8501`. 
+A Streamlit application will be launched on your localhost, on port `8501`.
 
 ![alt text](img/terminal.png)
 
