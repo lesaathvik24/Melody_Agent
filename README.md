@@ -43,7 +43,6 @@ Now that you have all the env variables configured, it is time to let the Docker
 using [docker-compose](https://docs.docker.com/compose/), where you'll be creating two containers; one container for
 the Suno API logic and the other for the streamlit + crewAI logic. You can check the docker-compose specification
 [here](docker-compose.yml).
-
 To start the application, simply run:
 
 ```sh
