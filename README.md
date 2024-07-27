@@ -6,8 +6,6 @@
 ## Introduction
 
 This is a Music Generation Agent
-
-
 ## Description
 
 This repository contains a crewAI application for automatically generating songs given a **topic** and a **music genre**. The song generation is done using [the "unofficial" Suno AI API](https://github.com/gcui-art/suno-api).
