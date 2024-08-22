@@ -15,7 +15,6 @@ The crew consists of [three agents](agents.py):
 
 The Web Researcher Agent searches for relevant information in the web about a provided `topic`. 
 
-
 2️⃣ Lyrics Creator Agent
 
 The Lyrics Creator Agent takes the previous research and generates high quality lyrics from it. In addition,
